@@ -1,6 +1,4 @@
 # SPRING ADVANCED
 
 
-![image](https://github.com/user-attachments/assets/b0ae497b-33c8-4dee-87af-53e774e61537)
-
-![image](https://github.com/user-attachments/assets/2d43bd2e-58ff-47a1-8e96-dcab48f5bfae)
+![image](https://github.com/user-attachments/assets/d89fee95-6f2b-4ae6-bbb1-72253f0723cf)
