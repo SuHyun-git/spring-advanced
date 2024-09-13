@@ -77,7 +77,7 @@ class UserControllerTest {
 
         doNothing().when(userService).changePassword(anyLong(), any(UserChangePasswordRequest.class));
 
-        // when
+        // w
         mvc.perform(put("/users")
                 .contentType(MediaType.APPLICATION_JSON)
                 .content(objectMapper.writeValueAsString(userChangePasswordRequest)));
