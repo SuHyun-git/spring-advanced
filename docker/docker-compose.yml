@@ -3,7 +3,7 @@ services:
   jenkins:
     container_name: jenkins
     build:
-      context: ./
+      context: ..
       dockerfile: Dockerfile
     restart: unless-stopped
     user: root
